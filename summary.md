@@ -9,13 +9,13 @@ SW와 관련하여 진행활 활동들을 정리한 repository 입니다.
 
 
 # 자율과제형
-- **[Smol demo-SNS의 이미지를 불러와 엽서로 제작해주는 웹 어플리케이션 서버](https://github.com/Heedeok/smol_beta_server)**
 - **[Sero post-사용자들의 이미지를 엽서로 저장하고 배송해주는 웹 어플리케이션 서버](https://github.com/Heedeok/sero_post)**
+- **[Smol demo-SNS의 이미지를 불러와 엽서로 제작해주는 웹 어플리케이션 서버](https://github.com/Heedeok/smol_beta_server)**
 - **[C언어로 socket programming 방식으로 만든 채팅프로그램](https://github.com/Heedeok/chat)**
 
 # 교과목형
-- **[COMP217 자바프로그래밍-2018년도1학기(이경숙 교수님)](https://github.com/Heedeok/calender)**
 - **[ITEC402005 종합헐계프로젝트-2020년도(문병인 교수님)](https://github.com/Heedeok/airmate)**
+- **[COMP217 자바프로그래밍-2018년도1학기(이경숙 교수님)](https://github.com/Heedeok/calender)**
 
 # 연구실 연수생형
 - **[ZED 카메라의 depth map을 활용한 3D objec detection](https://github.com/Heedeok/3dod_zedm)**
