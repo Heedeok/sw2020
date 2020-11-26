@@ -8,7 +8,7 @@ SW와 관련하여 진행활 활동들을 정리한 repository 입니다.
 # 형태별 추가 정보:
 
 # 연구실 연수생형
-- **[ZED 카메라의 depth map을 활용한 3D objec detection](https://github.com/Heedeok/3dod_zedm) **
+- **[ZED 카메라의 depth map을 활용한 3D objec detection](https://github.com/Heedeok/3dod_zedm)**
 - **[Image 데이터를 활용한 3D obejct detection deep learning algorithm](https://github.com/Heedeok/smoke)**
 - **[Lidar 데이터와 image를 활용한 3D object detection deep learning algorithm](https://github.com/Heedeok/frustum-pointnets)**
   - **[rgb_depth image로 학습한 모델](https://github.com/Heedeok/frustum-pointnets-rgbd)**
