@@ -18,7 +18,7 @@ SW와 관련하여 진행활 활동들을 정리한 repository 입니다.
 - **[COMP217 자바프로그래밍-2018년도1학기(이경숙 교수님)](https://github.com/Heedeok/calender)**
 
 # 연구실 연수생형
-- **[ZED 카메라의 depth map을 활용한 3D objec detection](https://github.com/Heedeok/3dod_zedm)**
+- **[ZED 카메라의 depth map을 활용한 3D object detection](https://github.com/Heedeok/3dod_zedm)**
 
 # 기타
 - **[C언 학습 스터디 문제풀이](https://github.com/Heedeok/problem)**
