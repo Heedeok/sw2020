@@ -19,7 +19,7 @@ SW와 관련하여 진행활 활동들을 정리한 repository 입니다.
 
 # 연구실 연수생형
 - **[ZED 카메라의 depth map을 활용한 3D objec detection](https://github.com/Heedeok/3dod_zedm)**
-- **[SMOEK - Image 데이터를 활용한 3D obejct detection deep learning algorithm](https://github.com/Heedeok/smoke)**
+- **[SMOKE - Image 데이터를 활용한 3D obejct detection deep learning algorithm](https://github.com/Heedeok/smoke)**
 - **[Frustum_pointnet - Lidar 데이터와 image를 활용한 3D object detection deep learning algorithm](https://github.com/Heedeok/frustum-pointnets)**
   - **[rgb_depth image로 학습한 모델](https://github.com/Heedeok/frustum-pointnets-rgbd)**
 - **[PV_RCNN - Lidar 데이터만을 활용한 3D obejct detection deep learning algorithm](https://github.com/Heedeok/PV_RCNN)**
